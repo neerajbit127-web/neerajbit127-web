@@ -26,6 +26,6 @@ I've been learning to code for 1 year and after gaining more experience I have s
 
 <div width="100%" align="center"><a href="https://github.com/neerajbit127-web/leetcode" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=neerajbit127-web&repo=leetcode&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-🐍 Contribution Snake
+[🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/neerjbit127-web/neerjbit127-web/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/neerjbit127-web/neerjbit127-web/output/github-contribution-grid-snake-dark.svg)](https://raw.githubusercontent.com/neerajbit127-web/neerajbit127-web/output/github-contribution-grid-snake-dark.svg)
