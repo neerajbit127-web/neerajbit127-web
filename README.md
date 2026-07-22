@@ -26,4 +26,12 @@ I've been learning to code for 1 year and after gaining more experience I have s
 
 <div width="100%" align="center"><a href="https://github.com/neerajbit127-web/leetcode" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=neerajbit127-web&repo=leetcode&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neerajbit127/neerajbit127/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/neerajbit127/neerajbit127/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/neerajbit127/neerajbit127/output/github-contribution-grid-snake.svg">
+</picture>
+
 ![Snake animation](https://raw.githubusercontent.com/neerajbit127/neerajbit127/output/github-contribution-grid-snake-dark.svg)
