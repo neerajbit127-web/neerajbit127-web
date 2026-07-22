@@ -28,14 +28,4 @@ I've been learning to code for 1 year and after gaining more experience I have s
 
 🐍 Contribution Snake
 
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neerjbit127-web/neerjbit127-web/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/neerjbit127-web/neerjbit127-web/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/neerjbit127-web/neerjbit127-web/output/github-contribution-grid-snake.svg">
-</picture>
-
-## 🐍 Contribution Snake
-
 ![Snake animation](https://raw.githubusercontent.com/neerjbit127-web/neerjbit127-web/output/github-contribution-grid-snake-dark.svg)
