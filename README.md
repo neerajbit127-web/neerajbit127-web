@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi  My name is Neeraj<br>I've been learning to code for 1 year and after gaining more experience I have started DSA and web development.<br><br>🌍 I'm based in kota<br>🧠 I'm currently learning DSA and web devlopment<br>💬 Ask me about Just experiencing
+Hi  My name is Neeraj<br><br>🌍 I'm based in kota<br<br>💬 Ask me about Just experiencing
 
 
 ## 🌐 Socials:
