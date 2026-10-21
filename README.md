@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi  My name is Neeraj<br><br>🌍 I'm based in kota<br<br>💬 Ask me about Just experiencing
+Hi  My name is Neeraj<br><br>🌍 I'm based in kota<br>💬 Ask me about Just experiencing
 
 
 ## 🌐 Socials:
